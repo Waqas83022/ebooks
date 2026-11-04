@@ -1,4 +1,4 @@
-# The lines worth keeping {.unnumbered}
+# The lines worth keeping {.unnumbered .lines}
 
 *An archer's quiver, gathered in one place: the lines from this book that readers may want to return to, copy down or pass on.*
 
@@ -6,7 +6,7 @@
 
 *Effort changes the odds. It does not sign a contract with the outcome.*
 
-*No farmer has ever believed that ploughing guarantees rain. Every farmer ploughs.*
+*No farmer has ever believed that plowing guarantees rain. Every farmer plows.*
 
 *A result tells you what happened. It does not tell you what you are worth.*
 
@@ -72,7 +72,7 @@
 
 *Maktub, it is written, is almost always said in the past tense.*
 
-*The words we use for uncertainty quietly become rules for how we live.*
+*The words we use for uncertainty turn, in time, into rules for how we live.*
 
 *Taking responsibility begins with an honest account of the room you have to act.*
 

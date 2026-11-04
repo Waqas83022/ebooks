@@ -1,4 +1,4 @@
-# Notes and sources {.unnumbered}
+# Notes and sources {.unnumbered .notes}
 
 The research and history in this book come from the sources below. Where a study is described, I have tried to report its setting and its limits along with its findings. Quotations from older works are given in the wording of a standard English translation, or paraphrased where noted. Sana, Daniel, Omar, Yusuf, Amna and Leila are composites: their names are invented and their stories are built from many lives.
 

@@ -26,7 +26,7 @@ In one of them, he gave people a short account of a historical conflict they kne
 
 Whatever ending people were told, they judged that ending to have been more likely. They looked at the same evidence and found, in it, the seeds of whatever outcome they believed had happened. And they did not realize that knowing the ending had changed their judgment. They believed they would have seen it coming anyway.
 
-In another study, Fischhoff and his colleague Ruth Beyth asked people to predict the results of President Nixon's historic trips to China and the Soviet Union in 1972, before they happened. Afterwards, they asked the same people to remember what they had predicted. People tended to remember having given higher odds to the things that actually happened, and lower odds to the things that did not. Their memories had quietly moved toward the truth.
+In another study, Fischhoff and his colleague Ruth Beyth asked people to predict the results of President Nixon's historic trips to China and the Soviet Union in 1972, before they happened. Afterwards, they asked the same people to remember what they had predicted. People tended to remember having given higher odds to the things that actually happened, and lower odds to the things that did not. Their memories had moved toward the truth, and they had not felt them move.
 
 Fischhoff gave this tendency a name that I find almost poetic. He called it *creeping determinism*. Once we know how something turned out, the past starts to look as though it could only have turned out that way. The feeling of inevitability creeps backward into events that, at the time, were genuinely open.
 
@@ -40,7 +40,7 @@ Because a great deal of what we feel as destiny is creeping determinism. It is t
 
 People who believe in destiny for deep reasons, religious or philosophical, need not be troubled by this. Their belief does not rest on a feeling of inevitability; it rests on their faith or their reasoning. But it is worth knowing that the *feeling* of "it was always going to happen" will arrive whether or not anything was ever written. It arrives for everyone, about everything, once the ending is known.
 
-There is a word in Arabic, *maktub*, which means "it is written." It has travelled far beyond the Arabic-speaking world, partly through a famous novel about a shepherd boy following his dream, where it becomes a kind of refrain. People say it with a certain peace after something has happened: *maktub*, it was written. I love the word. But notice the tense. It is almost always said about the past.
+There is a word in Arabic, *maktub*, which means "it is written." It has traveled far beyond the Arabic-speaking world, partly through a famous novel about a shepherd boy following his dream, where it becomes a kind of refrain. People say it with a certain peace after something has happened: *maktub*, it was written. I love the word. But notice the tense. It is almost always said about the past.
 
 * * *
 
@@ -54,7 +54,7 @@ But some people have the opposite pattern, and they are often the people who rea
 
 Both patterns have the same structure. They take events that were a mixture of effort, luck and whatever else, and they sort them using different words depending on whether the outcome was good or bad. The words are doing something to us. They are turning our uncertainty into rules about who we are.
 
-> *The words we use for uncertainty quietly become rules for how we live.*
+> *The words we use for uncertainty turn, in time, into rules for how we live.*
 
 So I suggest a small, honest discipline. When you tell the story of something that happened to you, good or bad, try to include all three: what you did, what you did not control, and what you do not know. Do this for your successes as carefully as for your failures.
 
@@ -90,6 +90,6 @@ Jobs was right that you have to trust something. I would only add that you do no
 
 *Maktub, it is written, is almost always said in the past tense.*
 
-*The words we use for uncertainty quietly become rules for how we live.*
+*The words we use for uncertainty turn, in time, into rules for how we live.*
 
 **Practice.** Choose one important event in your life. Write it three times: once as a story of destiny, once as a story of luck and once as a story of effort. Then write it a fourth time, honestly including all three, plus one thing you still do not know. Read the four versions aloud. Which one would you want to believe on your worst day? Which one is true?

@@ -50,7 +50,7 @@ The results were striking. In the worlds where people could see what others were
 
 Quality was not irrelevant. The songs that did best in the independent world rarely did terribly in the social worlds, and the songs that did worst rarely did brilliantly. But across a wide middle range, which song became a hit depended heavily on what happened to be downloaded first.
 
-I want to be fair to this study. It was one experiment, in one artificial music market, more than twenty years ago. It cannot tell us the exact role of chance in any particular career. But it offers a powerful challenge to the comforting belief that the best work always rises to the top. In a world where people watch each other, and they always do, early luck can be amplified until it looks like destiny.
+I want to be fair to this study. It was one experiment, in one artificial music market, more than twenty years ago. It cannot tell us the exact role of chance in any particular career. But it is a serious challenge to the comforting belief that the best work always rises to the top. In a world where people watch each other, and they always do, early luck can be amplified until it looks like destiny.
 
 * * *
 

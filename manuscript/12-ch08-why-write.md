@@ -42,7 +42,7 @@ The lazy argument imagines destiny as something that happens *to* us from outsid
 
 There is a story from the early history of Islam that makes the same point so beautifully that I cannot leave it out. I share it not as theology, but because it shows that people in very different places, with very different beliefs, have reached for the same answer to the same question.
 
-In the year 639, the caliph Umar ibn al-Khattab was travelling with his army toward Syria. At a place called Sargh, his commanders met him with bad news. A plague had broken out in the land ahead. Umar consulted his companions, and after much discussion he decided to turn back rather than lead his people into the epidemic.
+In the year 639, the caliph Umar ibn al-Khattab was traveling with his army toward Syria. At a place called Sargh, his commanders met him with bad news. A plague had broken out in the land ahead. Umar consulted his companions, and after much discussion he decided to turn back rather than lead his people into the epidemic.
 
 One of his most respected commanders, Abu Ubaidah, challenged him. *Are you running away from what God has decreed?*
 

@@ -62,15 +62,15 @@ The archer does not stop drawing the bow because of the wind. And the wind does 
 
 So this book is organized around the archer and the forces that act on the arrow.
 
-**The bow** is your effort. It is the training, the preparation, the work you do with your own hands. It is the one part of the story that is yours to shape.
+*The bow* is your effort. It is the training, the preparation, the work you do with your own hands. It is the one part of the story that is yours to shape.
 
-**The wind** is luck: everything that pushes on your life that you did not choose and cannot control. Your birthplace, your parents, the economy, the mood of the person reading your application, the stranger who happens to sit next to you on a train.
+*The wind* is luck: everything that pushes on your life that you did not choose and cannot control. Your birthplace, your parents, the economy, the mood of the person reading your application, the stranger who happens to sit next to you on a train.
 
-**The written page** is destiny. Maybe you believe the arrow's path was always known, inscribed somewhere before you drew the bow. Maybe you believe destiny is only the story we tell afterward, when we look back and see a path that seemed inevitable. Either way, the page is the place where the arrow lands, and the meaning we give it.
+*The written page* is destiny. Maybe you believe the arrow's path was always known, inscribed somewhere before you drew the bow. Maybe you believe destiny is only the story we tell afterward, when we look back and see a path that seemed inevitable. Either way, the page is the place where the arrow lands, and the meaning we give it.
 
-**The breath** is hope, and for many of us, prayer. Every archer knows the moment just before release, when you breathe in, hold still and send something silent toward the target. It does not move the arrow by force. But no archer who has ever lived has skipped it.
+*The breath* is hope, and for many of us, prayer. Every archer knows the moment just before release, when you breathe in, hold still and send something silent toward the target. It does not move the arrow by force. But no archer who has ever lived has skipped it.
 
-And then there is **the archer**: you. The one who has to hold all four of these at once and still decide, every morning, whether to pick up the bow again.
+And then there is *the archer*: you. The one who has to hold all four of these at once and still decide, every morning, whether to pick up the bow again.
 
 * * *
 
@@ -80,7 +80,7 @@ It will not promise you that hard work always wins. It does not, and you already
 
 It will not settle the great theological questions about destiny. I am not a scholar of any religion, and this is not a book of theology. People of many faiths, and of no faith, will read these pages, and I want each of them to find room here. Where I mention the wisdom of a particular tradition, it is because the story is too good and too true to leave out, not because I am trying to persuade you of a creed.
 
-What this book will try to do is this. It will give you a way to think about effort, luck, destiny and hope so that they stop fighting inside you. It will show you what the research actually says about why luck seems to love the hardworking, why the wrong people sometimes win, and why some kinds of hope keep people alive while other kinds quietly kill them. It will give you words for disappointment, which is one of the loneliest experiences there is, partly because we have so few good words for it. And it will help you decide what to do next, when you have tried hard, hoped deeply and still lost: whether to draw again at the same target, or to turn and aim somewhere new.
+What this book will try to do is this. It will give you a way to think about effort, luck, destiny and hope so that they stop fighting inside you. It will show you what the research actually says about why luck seems to love the hardworking, why the wrong people sometimes win, and why some kinds of hope keep people alive while other kinds break their hearts. It will give you words for disappointment, which is one of the loneliest experiences there is, partly because we have so few good words for it. And it will help you decide what to do next, when you have tried hard, hoped deeply and still lost: whether to draw again at the same target, or to turn and aim somewhere new.
 
 You will meet some people along the way. A few of them are composites: invented names and lives that I have built from the many stories I have watched unfold, so that no real person's private pain is put on display. When someone is a composite, I will tell you. Everyone else, the scientists, the soldiers, the philosophers, the prisoners, the poets, the farmer with the runaway horse, either really lived or comes from a story that people have been telling for centuries. You will find my sources in the Notes at the back of the book.
 

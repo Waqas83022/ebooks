@@ -1,0 +1,79 @@
+/* Print stylesheet for the 6 x 9 inch proof PDF (rendered by Chromium). */
+@font-face { font-family: "Cormorant"; font-weight: 600; src: url("fonts/CormorantGaramond-600.woff2") format("woff2"); }
+@font-face { font-family: "Cormorant"; font-weight: 500; font-style: italic; src: url("fonts/CormorantGaramond-500-italic.woff2") format("woff2"); }
+
+html { font-size: 10.6pt; }
+body {
+  font-family: "Charter", "Bitstream Charter", "Caladea", Georgia, serif;
+  line-height: 1.42;
+  color: #111;
+  margin: 0;
+  max-width: none;
+  padding: 0;
+  hyphens: auto;
+  text-align: justify;
+}
+p { margin: 0; text-indent: 1.4em; orphans: 2; widows: 2; }
+h1 + p, h2 + p, hr + p, blockquote + p, .pagebreak + p { text-indent: 0; }
+
+h1 {
+  font-family: "Cormorant", Georgia, serif;
+  font-weight: 600;
+  font-size: 1.85rem;
+  line-height: 1.15;
+  text-align: center;
+  margin: 1.4in 0 0.45in 0;
+  break-before: page;
+}
+h2 {
+  font-weight: normal;
+  font-variant: small-caps;
+  letter-spacing: 0.06em;
+  font-size: 1.02rem;
+  text-align: center;
+  margin: 1.6em 0 0.8em 0;
+  break-after: avoid;
+}
+p.scenebreak { text-align: center; text-indent: 0; margin: 0.9em 0; color: #444; }
+p.scenebreak + p { text-indent: 0; }
+
+blockquote { margin: 1.1em 1.4em; padding: 0; border: none; color: #111; text-align: center; break-inside: avoid; }
+blockquote p { text-indent: 0; font-size: 1.06rem; }
+
+section.part h1 { margin-top: 2.6in; font-size: 2.3rem; }
+section.part > p { text-align: center; text-indent: 0; margin: 0 0.3in 1.2em 0.3in; }
+
+section.quiver { margin-top: 1.8em; border-top: 0.5pt solid #777; padding-top: 0.3em; break-inside: avoid; }
+section.quiver p { text-indent: 0; margin: 0 0 0.6em 0; text-align: left; }
+
+.pagebreak { break-before: page; height: 0; }
+
+/* Pandoc title block */
+#title-block-header { text-align: center; padding-top: 2.2in; break-after: page; }
+#title-block-header .title { font-family: "Cormorant", Georgia, serif; font-weight: 600; font-size: 2.6rem; margin: 0 0 0.3in 0; break-before: avoid; }
+#title-block-header .subtitle { font-style: italic; text-indent: 0; text-align: center; font-size: 1.15rem; margin: 0 0.3in 0.6in 0.3in; }
+#title-block-header .author { text-indent: 0; text-align: center; font-variant: small-caps; letter-spacing: 0.1em; }
+#title-block-header .date { display: none; }
+
+/* Table of contents */
+nav#TOC { break-before: page; break-after: page; }
+nav#TOC h2 { font-family: "Cormorant", Georgia, serif; font-weight: 600; font-variant: normal; letter-spacing: 0; font-size: 1.85rem; margin: 1.2in 0 0.35in 0; }
+nav#TOC ul { list-style: none; padding: 0; margin: 0; }
+nav#TOC li { margin: 0.28em 0; text-align: left; }
+nav#TOC a { color: #111; text-decoration: none; }
+
+/* Front matter */
+section.copyright > h1, section.dedication > h1, section.epigraph > h1 { display: none; }
+section.copyright, section.dedication, section.epigraph { break-before: page; }
+section.copyright { padding-top: 3.2in; }
+section.copyright p { text-indent: 0; font-size: 0.82rem; margin-bottom: 0.7em; text-align: left; }
+section.dedication { padding-top: 2.4in; text-align: center; }
+section.dedication p { text-indent: 0; text-align: center; margin-bottom: 1em; }
+section.epigraph { padding-top: 1.8in; }
+section.epigraph p { text-indent: 0; text-align: left; margin: 0 0.25in 0.3em 0.25in; }
+section.epigraph p:nth-of-type(2n) { text-align: right; font-size: 0.88rem; margin-bottom: 1.6em; }
+
+/* Back matter: collected lines and notes */
+section.lines p { text-indent: 0; margin: 0 0 0.75em 0; text-align: left; }
+section.notes p { text-indent: 0; margin: 0 0 0.6em 0; font-size: 0.9rem; text-align: left; hyphens: manual; }
+section.notes h2, section.lines h2 { margin-top: 1.4em; }

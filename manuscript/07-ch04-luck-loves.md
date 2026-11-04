@@ -12,17 +12,17 @@ But the history does not answer the real question. Is the pattern true? And if i
 
 * * *
 
-In September 1928, a Scottish scientist named Alexander Fleming came back to his laboratory in London after a summer holiday. Before leaving, he had stacked a pile of glass dishes in which he had been growing bacteria, and now he began sorting through them. On one dish, he noticed a patch of mould. That in itself was unremarkable; contaminated dishes were a daily nuisance, and many people would have thrown it straight into the cleaning tub.
+In September 1928, a Scottish scientist named Alexander Fleming came back to his laboratory in London after a summer holiday. Before leaving, he had stacked a pile of glass dishes in which he had been growing bacteria, and now he began sorting through them. On one dish, he noticed a patch of mold. That in itself was unremarkable; contaminated dishes were a daily nuisance, and many people would have thrown it straight into the cleaning tub.
 
-But Fleming noticed something else. Around the mould, there was a clear ring where the bacteria had died.
+But Fleming noticed something else. Around the mold, there was a clear ring where the bacteria had died.
 
-That dish led to penicillin, and penicillin went on to save an unknowable number of lives. It is one of the most famous strokes of luck in the history of science. The mould spore that drifted onto that dish, probably from another laboratory in the same building, was pure chance. The timing of the holiday and the weather that summer, which allowed the mould and bacteria to grow in just the right way, was chance.
+That dish led to penicillin, and penicillin went on to save an unknowable number of lives. It is one of the most famous strokes of luck in the history of science. The mold spore that drifted onto that dish, probably from another laboratory in the same building, was pure chance. The timing of the holiday and the weather that summer, which allowed the mold and bacteria to grow in just the right way, was chance.
 
 But here is the part of the story that is not luck. For years before that morning, Fleming had been hunting for substances that could kill bacteria. Years earlier he had discovered an antibacterial substance in human tears and mucus, which taught him exactly what such an effect might look like on a glass dish. When the accident arrived, it arrived in front of perhaps one of the few people in London whose mind had been shaped, by years of work, to recognize what it meant.
 
 Louis Pasteur had put this into words seventy-four years earlier, in a lecture at the University of Lille: *In the fields of observation, chance favors only the prepared mind.*
 
-Notice what Pasteur did not say. He did not say that preparation creates chance. The mould would have landed on that dish whether or not Fleming was prepared. What preparation did was turn an accident into an opportunity. Without it, the same dish would have been washed and forgotten.
+Notice what Pasteur did not say. He did not say that preparation creates chance. The mold would have landed on that dish whether or not Fleming was prepared. What preparation did was turn an accident into an opportunity. Without it, the same dish would have been washed and forgotten.
 
 > *Preparation cannot create the accident. It decides whether the accident becomes an opportunity.*
 
@@ -58,7 +58,7 @@ The second reason is *readiness*. Opportunities come to many people. Only some o
 
 The third reason is *visibility*. When you work seriously at something, other people notice. They remember you. They mention you to someone else. A teacher recommends you. A former colleague forwards your name. A customer tells a friend. Much of what we call luck arrives through other people, and other people can only bring opportunities to someone they know is looking.
 
-The fourth reason is *attention*, the newspaper effect. When you are deeply engaged in a field, your mind is quietly scanning for anything relevant to it. You notice the article, the overheard conversation, the strange result on a glass dish. Someone who is not engaged walks straight past the same signs, because they mean nothing to them.
+The fourth reason is *attention*, the newspaper effect. When you are deeply engaged in a field, your mind keeps scanning, without being asked, for anything relevant to it. You notice the article, the overheard conversation, the strange result on a glass dish. Someone who is not engaged walks straight past the same signs, because they mean nothing to them.
 
 Put these four together, and the pattern that started this book makes sense. Hard work does not bend the laws of chance. It widens the space in which opportunity can find you, and it makes you ready to recognize and use what arrives.
 
@@ -76,13 +76,13 @@ The third honest point is that luck often has a human face. When we look back on
 
 > *Luck often has a human face. Remember to thank it.*
 
-And the fourth honest point is the one that brings us back to the people I mentioned at the start of this book: the ones who prepared perfectly and lost. Exposure, readiness, visibility and attention all improve your odds. None of them can decide what arrives. A prepared musician may never get that phone call. A brilliant scientist may spend a whole career at the bench and never see the clear ring around the mould. The lucky people in Wiseman's study still had bad days. Work can widen the space where opportunity finds you. It cannot choose what walks through the door.
+And the fourth honest point is the one that brings us back to the people I mentioned at the start of this book: the ones who prepared perfectly and lost. Exposure, readiness, visibility and attention all improve your odds. None of them can decide what arrives. A prepared musician may never get that phone call. A brilliant scientist may spend a whole career at the bench and never see the clear ring around the mold. The lucky people in Wiseman's study still had bad days. Work can widen the space where opportunity finds you. It cannot choose what walks through the door.
 
 * * *
 
 There is a way of holding all this that I have found steadying.
 
-Instead of thinking of luck as a reward that hard work earns, think of it as weather. You cannot control the weather. But you can decide whether you are standing outside when it is good. You can make sure your field is ploughed when the rain comes. You can learn to read the sky well enough to know when to plant. And when a storm comes that no preparation could have prevented, you can know that the storm was not a verdict on your farming.
+Instead of thinking of luck as a reward that hard work earns, think of it as weather. You cannot control the weather. But you can decide whether you are standing outside when it is good. You can make sure your field is plowed when the rain comes. You can learn to read the sky well enough to know when to plant. And when a storm comes that no preparation could have prevented, you can know that the storm was not a verdict on your farming.
 
 This way of thinking keeps both parts of the truth. Your effort is real, and it really does tilt the odds; that is why you noticed the pattern in the first place. And the weather is real, and it does not owe you anything; that is why the pattern has exceptions that break people's hearts.
 
@@ -96,7 +96,7 @@ Be honest. Write down the bad surprises as carefully as the good ones. Write dow
 
 At the end of two weeks, read it all at once. Most people find two things. They find that more of their good luck than they expected came through other people. And they find that the days when they were active, when they were reaching out, trying things, showing their work, contained more surprises of every kind, good and bad, than the days when they stayed inside their routines.
 
-That second finding is the whole chapter in miniature. Effort does not buy good luck. It buys more weather. And over a lifetime, a person who stands in more weather, with a ploughed field and an attentive eye, tends to catch more rain.
+That second finding is the whole chapter in miniature. Effort does not buy good luck. It buys more weather. And over a lifetime, a person who stands in more weather, with a plowed field and an attentive eye, tends to catch more rain.
 
 ## For your quiver {.unnumbered .quiver}
 

@@ -50,7 +50,7 @@ Sana is not only sad that she did not get the job. She feels cheated. She kept h
 
 * * *
 
-In the 1960s, a psychologist named Melvin Lerner began to notice something unsettling about the way people respond to suffering. He saw that people often blame victims for misfortunes they clearly did not cause: that we look at someone who has been hurt by pure bad luck and quietly decide they must have done something to deserve it.
+In the 1960s, a psychologist named Melvin Lerner began to notice something unsettling about the way people respond to suffering. He saw that people often blame victims for misfortunes they clearly did not cause: that we look at someone who has been hurt by pure bad luck and decide, without quite admitting it, that they must have done something to deserve it.
 
 To test this, Lerner and his colleague Carolyn Simmons ran an experiment, published in 1966. Women watched what they believed was a fellow student receiving painful electric shocks as part of a learning task. (She was an actor; there were no real shocks.) The observers could not stop it. And when they could do nothing to help her, many of them did something strange. They began to think less of her. They rated her as less attractive and less admirable than observers who had been able to change her situation, or who learned she would be compensated.
 
@@ -82,11 +82,11 @@ Effort was never a guarantee. It was a contribution.
 
 The people who understand this best have always been farmers.
 
-No farmer has ever believed that ploughing guarantees rain. A farmer knows the whole list of things that can ruin a season: drought, flood, locusts, hail, disease, a bad market at harvest time. Every one of them is outside the farmer's control. Some years the farmer does everything right and the crop fails anyway. Farmers in every culture have stories, songs and prayers about exactly this.
+No farmer has ever believed that plowing guarantees rain. A farmer knows the whole list of things that can ruin a season: drought, flood, locusts, hail, disease, a bad market at harvest time. Every one of them is outside the farmer's control. Some years the farmer does everything right and the crop fails anyway. Farmers in every culture have stories, songs and prayers about exactly this.
 
-And every farmer ploughs.
+And every farmer plows.
 
-They do not plough because ploughing guarantees a harvest. They plough because not ploughing guarantees there will not be one. Effort does not decide the outcome. It decides whether an outcome is possible at all. The rain may or may not come; but if it comes, it will fall on a prepared field or an empty one, and that part belongs to the farmer.
+They do not plow because plowing guarantees a harvest. They plow because not plowing guarantees there will not be one. Effort does not decide the outcome. It decides whether an outcome is possible at all. The rain may or may not come; but if it comes, it will fall on a prepared field or an empty one, and that part belongs to the farmer.
 
 This is what the contract got wrong. It treated effort as a price we pay for a result, like money handed over at a shop counter. But effort is more like planting. You put something real into the ground. You give it every chance you can. And then you wait under the same sky as everyone else.
 
@@ -136,6 +136,6 @@ She draws with everything she has. She lets go. And whatever happens to the arro
 
 *A result tells you what happened. It does not tell you what you are worth.*
 
-*No farmer has ever believed that ploughing guarantees rain. Every farmer ploughs.*
+*No farmer has ever believed that plowing guarantees rain. Every farmer plows.*
 
 **Practice.** Write down three things you once expected life, work or love to give you if you did your part. Next to each, write which kind of promise it really was: a real commitment someone made to you, a reasonable expectation, or a deep and honest wish. Notice how many of your heaviest disappointments came from the third kind being treated as the first.

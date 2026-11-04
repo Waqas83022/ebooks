@@ -12,7 +12,7 @@ In Canadian youth hockey, children were grouped by calendar year, with a cut-off
 
 What they could not see was that a small, accidental head start, a birthday, had been fed and watered for a decade until it grew into a real difference in skill.
 
-The research has been repeated many times since, in other sports and in schools, and the size of the effect varies a great deal from place to place. But the lesson of that hockey program has never left me. Effort was real for every one of those players. They all trained. They all got up at five in the morning for practice. And some of them were training on ground that had been quietly raised for them before they ever picked up a stick.
+The research has been repeated many times since, in other sports and in schools, and the size of the effect varies a great deal from place to place. But the lesson of that hockey program has never left me. Effort was real for every one of those players. They all trained. They all got up at five in the morning for practice. And some of them were training on ground that had been raised for them, without anyone noticing, before they ever picked up a stick.
 
 * * *
 

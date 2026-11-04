@@ -10,7 +10,7 @@ More than a thousand years later, far to the south-east in Arabia, Muslims prese
 
 In Spain they say *a Dios rogando y con el mazo dando*: praying to God and swinging the mallet. The story behind it is about a carter whose wagon broke down. He begged a saint to fix it, and the saint told him, in effect, *I will pray; you take up the hammer.* In the monasteries of medieval Europe, the Benedictine monks summed up their whole way of life in three Latin words: *ora et labora*, pray and work.
 
-What strikes me about all these sayings is where they come from. They were not invented by sceptics mocking the faithful. They were invented by deeply religious people, in deeply religious cultures, as advice to each other. Every people that learned to pray also invented a proverb telling you to keep working.
+What strikes me about all these sayings is where they come from. They were not invented by skeptics mocking the faithful. They were invented by deeply religious people, in deeply religious cultures, as advice to each other. Every people that learned to pray also invented a proverb telling you to keep working.
 
 > *Every people that learned to pray also invented a proverb about working.*
 

@@ -16,7 +16,7 @@ In 1998, the psychologists Daniel Gilbert, Timothy Wilson and their colleagues p
 
 Again and again, the same pattern appeared. People predicted that the bad event would make them miserable, and that the misery would last a long time. When the bad event actually happened, they felt bad, but less bad than they had predicted, and for less time. The professors who were denied tenure, for example, had predicted that they would be unhappy for years. Some years later, they were reporting happiness levels not far from those of colleagues who had been promoted.
 
-Gilbert and Wilson's explanation is that we all have what they call a *psychological immune system*: a set of mental processes that help us recover from pain, find new meaning, notice new possibilities and make our peace with what happened. Like the body's immune system, it works quietly in the background. And because it works quietly, we forget it is there. So when we imagine a future disappointment, we imagine the pain without imagining the recovery.
+Gilbert and Wilson's explanation is that we all have what they call a *psychological immune system*: a set of mental processes that help us recover from pain, find new meaning, notice new possibilities and make our peace with what happened. Like the body's immune system, it does its work in the background. And because we rarely see it working, we forget it is there. So when we imagine a future disappointment, we imagine the pain without imagining the recovery.
 
 This does not mean that rejection does not hurt. It does. The first days can be very hard. But it does mean that the voice in your head saying *I will never get over this* is, on the evidence, probably wrong.
 

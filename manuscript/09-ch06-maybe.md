@@ -54,7 +54,7 @@ Kahneman later summarized the role of luck in two short equations that I have ne
 
 * * *
 
-Regression to the mean is not just a curiosity for statisticians. It quietly shapes how we judge ourselves and other people.
+Regression to the mean is not just a curiosity for statisticians. It shapes, without our noticing, how we judge ourselves and other people.
 
 You have an unusually brilliant day at work, and you start to believe that is who you really are. Then the next day is ordinary, and it feels like decline. You have a terrible exam, and you conclude you are hopeless at the subject. Then the next exam is better, and you credit the new study method, when some of the improvement was simply the bad luck of the first day not repeating.
 

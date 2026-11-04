@@ -4,7 +4,7 @@ We began with a question, and I promised you a careful answer. Here it is, as pl
 
 *If hard work cannot guarantee the result, if luck can undo the best preparation, if destiny may already be written and if prayers are sometimes answered with a no, then why try at all?*
 
-Try because effort changes the odds. It was never a contract with the outcome, but it was never nothing either. No farmer believes that ploughing guarantees rain. Every farmer ploughs, because an unploughed field guarantees there will be no harvest at all.
+Try because effort changes the odds. It was never a contract with the outcome, but it was never nothing either. No farmer believes that plowing guarantees rain. Every farmer plows, because an unplowed field guarantees there will be no harvest at all.
 
 Try because work builds a place for luck to land. The wind can only carry arrows that have been released. The newspaper message is printed on page two for everyone; only the people who are looking up from their counting will see it.
 

@@ -42,7 +42,7 @@ Hope, in his account, has two parts.
 
 The first he called *agency*. It is the sense that you can get yourself moving toward a goal and keep going. Snyder sometimes called it *willpower*. It is the inner voice that says, *I can do this. I will keep at it.*
 
-The second he called *pathways*. It is the ability to see routes to your goal, and, crucially, to find new routes when the first one is blocked. Snyder sometimes called it *waypower*. It is the inner voice that says, *Here is how. And if that doesn't work, here is another way.*
+The second he called *pathways*. It is the ability to see routes to your goal, and, most important, to find new routes when the first one is blocked. Snyder sometimes called it *waypower*. It is the inner voice that says, *Here is how. And if that doesn't work, here is another way.*
 
 Snyder and his colleagues developed a short questionnaire to measure these two parts, and over the following decades, researchers used it in hundreds of studies. People who scored higher on hope tended to set clearer goals, to come up with more ways to reach them and to keep going longer when they met obstacles. Higher hope has been linked, in many of these studies, with better results in school and sport and with better coping in illness.
 
@@ -58,7 +58,7 @@ In one of her studies, published with Doris Mayer in 2002, she asked university 
 
 You might expect that the students with the most vivid and positive fantasies would do best. They were the most hopeful, weren't they? The opposite happened. The graduates who had indulged most in positive fantasies about their future had, two years later, received fewer job offers and were earning lower salaries than those whose thoughts about the future had been more mixed. Oettingen found similar patterns elsewhere: in people hoping to recover well from surgery, in students with a crush hoping to start a relationship.
 
-Her explanation is that a vivid positive fantasy lets the mind taste the reward in advance. It feels wonderful. And because it feels as though we have already arrived, it quietly drains some of the energy we need to actually make the trip. Fantasy is a rehearsal of the destination. It is not a rehearsal of the road.
+Her explanation is that a vivid positive fantasy lets the mind taste the reward in advance. It feels wonderful. And because it feels as though we have already arrived, it drains away some of the energy we need to actually make the trip. Fantasy is a rehearsal of the destination. It is not a rehearsal of the road.
 
 But Oettingen did not conclude that we should stop dreaming. She found that the dream becomes powerful when it is joined to a clear look at the obstacle. She called this *mental contrasting*: first imagine the wish and the best outcome, and then imagine, just as vividly, the main thing inside you or around you that stands in the way. When people did this, those who had a reasonable chance of success became more energized and more likely to act. She later combined it with a simple if-then plan, *if this obstacle appears, then I will do that*, into a method she calls WOOP: Wish, Outcome, Obstacle, Plan.
 

@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Cover</title>
+<style>
+  @font-face { font-family: "Cormorant"; font-weight: 500; font-style: normal; src: url("fonts/CormorantGaramond-500.woff2") format("woff2"); }
+  @font-face { font-family: "Cormorant"; font-weight: 600; font-style: normal; src: url("fonts/CormorantGaramond-600.woff2") format("woff2"); }
+  @font-face { font-family: "Cormorant"; font-weight: 500; font-style: italic; src: url("fonts/CormorantGaramond-500-italic.woff2") format("woff2"); }
+
+  :root {
+    --night: #0d1726;
+    --dusk: #1d2b42;
+    --ember: #b9773f;
+    --dawn: #e8b46f;
+    --cream: #f4ebdc;
+    --gold: #e2b26a;
+  }
+  html, body { margin: 0; padding: 0; background: var(--night); }
+  .cover {
+    position: relative;
+    width: 1600px;
+    height: 2560px;
+    overflow: hidden;
+    background:
+      radial-gradient(ellipse 120% 38% at 50% 74%, rgba(232,180,111,0.55) 0%, rgba(185,119,63,0.28) 35%, rgba(29,43,66,0) 70%),
+      linear-gradient(180deg, var(--night) 0%, var(--dusk) 46%, #2a3550 64%, #3a3a4a 76%, #191f2c 100%);
+    color: var(--cream);
+    font-family: "Cormorant", Georgia, serif;
+  }
+  .grain {
+    position: absolute; inset: 0;
+    background-image: radial-gradient(rgba(255,255,255,0.025) 1px, transparent 1px);
+    background-size: 6px 6px;
+  }
+  svg.art { position: absolute; inset: 0; }
+  .title {
+    position: absolute;
+    top: 250px; left: 0; right: 0;
+    text-align: center;
+  }
+  .title .line1, .title .line2 {
+    display: block;
+    font-weight: 600;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    line-height: 0.98;
+  }
+  .title .line1 { font-size: 210px; }
+  .title .line2 { font-size: 150px; margin-top: 34px; letter-spacing: 0.14em; }
+  .title .and { font-style: italic; text-transform: none; letter-spacing: 0.02em; font-weight: 500; color: var(--gold); }
+  .rule {
+    width: 220px; height: 3px; margin: 70px auto 0 auto;
+    background: linear-gradient(90deg, rgba(226,178,106,0), var(--gold), rgba(226,178,106,0));
+  }
+  .subtitle {
+    position: absolute;
+    top: 820px; left: 170px; right: 170px;
+    text-align: center;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 70px;
+    line-height: 1.22;
+    color: #eadfcd;
+  }
+  .author {
+    position: absolute;
+    bottom: 190px; left: 0; right: 0;
+    text-align: center;
+    font-family: "Inter", "Liberation Sans", sans-serif;
+    font-weight: 500;
+    font-size: 62px;
+    letter-spacing: 0.32em;
+    text-transform: uppercase;
+    color: var(--cream);
+  }
+</style>
+</head>
+<body>
+<div class="cover">
+  <div class="grain"></div>
+  <svg class="art" width="1600" height="2560" viewBox="0 0 1600 2560" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="shaft" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#e2b26a" stop-opacity="0"/>
+        <stop offset="0.25" stop-color="#e2b26a" stop-opacity="0.9"/>
+        <stop offset="1" stop-color="#f4ebdc"/>
+      </linearGradient>
+      <linearGradient id="wind" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#f4ebdc" stop-opacity="0"/>
+        <stop offset="0.5" stop-color="#f4ebdc" stop-opacity="0.32"/>
+        <stop offset="1" stop-color="#f4ebdc" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+
+    <!-- horizon -->
+    <line x1="0" y1="1905" x2="1600" y2="1905" stroke="#e8b46f" stroke-opacity="0.35" stroke-width="2"/>
+
+    <!-- wind lines -->
+    <path d="M 120 1420 C 420 1360, 640 1470, 980 1400 S 1400 1330, 1560 1380" fill="none" stroke="url(#wind)" stroke-width="3"/>
+    <path d="M 60 1560 C 380 1500, 700 1610, 1040 1540 S 1380 1480, 1580 1520" fill="none" stroke="url(#wind)" stroke-width="2.5"/>
+    <path d="M 200 1290 C 520 1240, 760 1330, 1080 1270 S 1420 1210, 1560 1250" fill="none" stroke="url(#wind)" stroke-width="2"/>
+    <path d="M 40 1700 C 300 1660, 620 1740, 900 1690 S 1300 1640, 1500 1670" fill="none" stroke="url(#wind)" stroke-width="2"/>
+
+    <!-- arrow in flight: shaft follows a gentle curve bent by the wind -->
+    <g transform="translate(0,0)">
+      <path id="flight" d="M 230 1820 C 620 1560, 980 1420, 1330 1250" fill="none" stroke="url(#shaft)" stroke-width="7" stroke-linecap="round"/>
+      <!-- arrowhead -->
+      <g transform="translate(1330,1250) rotate(-25.9)">
+        <path d="M 0 -22 L 70 0 L 0 22 L 14 0 Z" fill="#f4ebdc"/>
+      </g>
+      <!-- fletching near the tail -->
+      <g transform="translate(330,1755) rotate(-33)" fill="none" stroke="#e2b26a" stroke-width="5" stroke-linecap="round">
+        <path d="M 0 0 L -60 -34"/>
+        <path d="M 0 0 L -60 34"/>
+        <path d="M 30 0 L -30 -34"/>
+        <path d="M 30 0 L -30 34"/>
+      </g>
+    </g>
+
+    <!-- distant target on the horizon -->
+    <g transform="translate(1380,1905)" fill="none" stroke="#f4ebdc" stroke-opacity="0.55">
+      <ellipse rx="44" ry="10" stroke-width="3"/>
+      <ellipse rx="26" ry="6" stroke-width="3"/>
+      <ellipse rx="9" ry="2.5" stroke-width="3"/>
+    </g>
+  </svg>
+
+  <div class="title">
+    <span class="line1">The Archer</span>
+    <span class="line2"><span class="and">and</span> the Wind</span>
+    <div class="rule"></div>
+  </div>
+  <div class="subtitle">Hard Work, Luck, Destiny, and the Hope That Holds Them Together</div>
+  <div class="author">Muhammad Waqas</div>
+</div>
+</body>
+</html>

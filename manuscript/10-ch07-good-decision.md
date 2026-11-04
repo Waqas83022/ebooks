@@ -76,7 +76,7 @@ The goal is not to protect yourself from responsibility. The goal is to place re
 
 *What could I have known, with reasonable effort?* Sometimes the information was out there and you did not look. That is worth learning from.
 
-*What could nobody have known?* The interception. The economic shock. The mould spore on the dish. These belong to the wind.
+*What could nobody have known?* The interception. The economic shock. The mold spore on the dish. These belong to the wind.
 
 When you separate these three, two things happen. You become much harder on yourself in a useful way, because you can see clearly where you did not do your homework. And you become much gentler on yourself in a necessary way, because you can see clearly what was never in your hands.
 
@@ -88,7 +88,7 @@ Before you make an important decision, write down a few things. What you are dec
 
 That is all. Then you make the decision and get on with your life.
 
-When the review date comes, read what you wrote before you knew how things turned out. This is the crucial part, because our memories are not honest about our past reasoning. Once we know the result, we tend to remember ourselves as having been more certain, or more doubtful, or wiser, or more foolish than we really were. Psychologists have shown this many times; we will meet the research in Chapter 9. The journal is a letter from your past self that your present self cannot edit.
+When the review date comes, read what you wrote before you knew how things turned out. This is the part that matters most, because our memories are not honest about our past reasoning. Once we know the result, we tend to remember ourselves as having been more certain, or more doubtful, or wiser, or more foolish than we really were. Psychologists have shown this many times; we will meet the research in Chapter 9. The journal is a letter from your past self that your present self cannot edit.
 
 You will learn two kinds of things from it. Sometimes you will find that you made a careful decision and the world simply went the other way. You can let go of the shame. Sometimes you will find that you ignored a warning sign you had actually written down. You can learn from that, specifically, without condemning your entire character.
 

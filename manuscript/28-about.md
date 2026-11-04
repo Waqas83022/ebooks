@@ -6,4 +6,4 @@ Most people who are struggling with these questions do not go looking for a book
 
 # About the author {.unnumbered}
 
-Muhammad Waqas has spent years thinking about four ideas that people build their lives on, hard work, luck, destiny and hope, and about why they so often seem to contradict each other. He noticed, many times, that when he worked hard his luck seemed to improve. He also watched sincere, hardworking and hopeful people lose the things they wanted most. *The Archer and the Wind* is his attempt to make sense of both.
+Muhammad Waqas has spent years thinking about four ideas that people build their lives on, hard work, luck, destiny and hope, and about why they so often seem to contradict each other. He noticed, many times, that when he worked hard his luck seemed to improve. He also watched hardworking, hopeful people lose the things they wanted most. *The Archer and the Wind* is his attempt to make sense of both.
