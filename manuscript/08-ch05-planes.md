@@ -72,7 +72,7 @@ There is one more hangar where the returning planes are counted, and most of us 
 
 After her rejection, Sara did what so many of us do when we are hurting. She opened her phone and scrolled. And there she found plane after plane that had made it home. A school friend announcing a job at a famous company. A cousin's engagement photographs. A former colleague's promotion. An acquaintance's new house.
 
-What Sara could not see were the planes that did not return. The friend's forty rejections before this one. The cousin's two broken engagements. The colleague turned down for the same promotion twice. The acquaintance's debt. People rarely post their storms, only their landings. So the screen offers a picture of a world in which everyone else's arrows hit the target and only yours fall into the grass.
+What Sara could not see were the planes that did not return. The friend's forty rejections before this one. The cousin's two broken engagements. The colleague turned down for the same promotion twice. The acquaintance's debt. People rarely post their storms, only their landings. So the screen gives you a picture of a world in which everyone else's arrows hit the target and only yours fall into the grass.
 
 That picture is false. Not because the posts are false, but because the hangar is missing its other half.
 

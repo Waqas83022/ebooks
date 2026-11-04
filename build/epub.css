@@ -141,3 +141,6 @@ section.notes p {
   text-indent: 0;
   margin: 0 0 0.8em 0;
 }
+
+/* Epigraph: one original three-line verse, centered */
+section.epigraph p { text-align: center; margin: 0 1.5em; }

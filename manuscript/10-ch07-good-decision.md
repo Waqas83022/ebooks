@@ -86,7 +86,7 @@ When you separate these three, two things happen at once. You become harder on y
 
 * * *
 
-There is a practice that some investors, doctors and poker players use, and I think it is one of the most valuable habits a thoughtful person can build. It is called a decision journal.
+There is a practice that some investors, doctors and poker players use, and I think it is one of the most useful habits a thoughtful person can build. It is called a decision journal.
 
 Before an important decision, write down a few things. What you are deciding. Why. What you expect to happen, and how confident you are. What alternatives you considered. What would change your mind. And a date, a few months or a year away, when you will look at it again.
 

@@ -90,7 +90,7 @@ Somewhere along the way, exhaustion became a badge. We tell each other how littl
 
 But exhaustion is a cost, not a contribution.
 
-A tired mind learns more slowly, decides worse and notices less. A tired body gets ill. A tired person becomes harder to be around, which quietly closes doors that a rested person would have walked through without noticing. Most of what makes effort effective, the noticing, the adjusting, the patience to sit with a hard problem, the sudden idea in the shower, depends on having something left in the tank.
+A tired mind learns more slowly, decides worse and notices less. A tired body gets ill. A tired person becomes harder to be around, which closes doors that a rested person would have walked through without noticing. Most of what makes effort effective, the noticing, the adjusting, the patience to sit with a hard problem, the sudden idea in the shower, depends on having something left in the tank.
 
 There is a hidden cost too. When we pour everything into one goal, the rest of life starves: friendships, health, family, faith, joy. If the goal succeeds, we sometimes look around and find we have won a prize in an empty house. If it fails, there is nothing to fall back on. The goal was carrying the whole weight of our life, and when it breaks, everything breaks with it.
 

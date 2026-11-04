@@ -2,36 +2,43 @@
 
 These notes explain the choices behind the manuscript and list what you should personalize or check before publishing.
 
-## How this book differs from the earlier plan
+## What changed in the second draft
 
-The plan you received earlier (*What Effort Cannot Promise*) was careful and fully secular. This manuscript keeps its research base and many of its signature lines, and changes five things.
+1. The opening. The introduction now starts with your own observation that luck seems to show up after preparation, puts Sara's rejection beside it within the first page, and brings in the archer only after the reader feels the contradiction. The breath is defined as the moment of hope before an action whose result you cannot know.
+2. A practical tool up front. A five-question version of the archer's card closes the introduction. Chapter 17 develops it into the full card, now with a stronger hope line.
+3. Wider examples. The job and the marriage are still there, but every chapter now ranges across exams, visas, farming, small businesses, sport, fertility, illness, publishing, investors and family approval.
+4. No borrowed quotations. Stockdale, Frankl, Havel, Jobs, Churchill, Kahneman, Dickinson and Bronnie Ware are all told in paraphrase, with credit in the Notes. The epigraph is an original verse. Every set-off line in the book is original.
+5. Destiny as three questions. Chapter 8 asks whether a fixed future makes effort pointless and is built around a student's exam and the line "A caused action can still be a cause." Chapter 9 asks why the past looks inevitable once we know the ending. Chapter 10 asks how much room a person has to act, given money, time and obligations.
+6. More weight on hope. Part Four now has three hope chapters with separate jobs. Chapter 11, "When the future you imagined disappears," is new: it is about grieving an imagined future, and it ends with a four-part writing exercise. Chapter 12 is about finding new roads, and it now separates hope from optimism and treats prayer briefly as a form of hope. Chapter 13 is about living through a wait.
+7. Secular and lighter on religion. The religious stories (Umar, the camel saying, the votive tablets) are gone. Prayer appears respectfully as one form hope can take, without any particular tradition.
+8. One line per chapter. Each chapter ends with one signature line and one practice. The collection at the back is cut to fifteen lines, and the epilogue no longer repeats them.
+9. New names. Sara, Daniel, Omar, Nadia, Maya, Adam and Lina are names used in both the Arabic-speaking world and Europe. Adam's turning point is now an action: the night he puts the phone face down and makes plans with a friend.
+10. New cover. The cover has an ink-blue field, ivory type and one copper arrow mid-flight through a faint sweep of wind, heading toward a small, off-center target. It carries the new subtitle, with the cover line at the bottom.
 
-1. A new title and one central image. *The Archer and the Wind* comes from the Stoic archer in Cicero's *On Ends*: the archer controls the aim but not the wind. Each of the four ideas gets a role in that picture. Hard work is the bow, luck is the wind, destiny is the written page and hope or prayer is the breath before release. The five parts of the book follow the same picture, so readers always know where they are.
-2. Prayer is back in the book. Your original question was about the effect of prayers, so leaving prayer out would have dodged it. Chapter 11 treats prayer respectfully for believers and non-believers alike. It does not claim to know what happens on the other side of a prayer, and it does not argue for any religion. Religious material is limited to a few short stories: Umar at Sargh, the camel saying, Aesop's waggoner, the Spanish proverb, the Serenity Prayer, and one sentence on supplication and the decree.
-3. Destiny gets a direct answer. Chapter 8 uses the ancient "lazy argument" and Chrysippus's reply (outcomes are "co-fated" with the actions that bring them about). It sets this beside Umar's "from the decree of God to the decree of God." This answers your question "if destiny is written, why work and pray?" in a way that works for readers with or without faith.
-4. Recurring characters. Sana (the job) and Yusuf (the person he hoped to marry) run through the book. Both come from the two examples in your original idea. Daniel, Omar and Leila appear more briefly. All of them are composites, and the book says so. The last chapter gives them different endings: a revised goal that worked out, a win that did not end the wanting, an open question, a different road to the same value, and a loss still mourned inside a life that has grown.
-5. Fewer, sturdier chapters. The plan's two worksheet-style chapters became one practical chapter (Chapter 17, the archer's discipline). The space this saved went to luck (survivorship bias, the old man at the frontier) and to hope (the Stockdale and Frankl chapter).
+## The fifteen lines
 
-## Where the signature lines come from
+These close each chapter and appear together on "The lines worth keeping" page. The four you asked me to protect are all in:
 
-About half of the quotable lines are new to this manuscript. Examples: "Work does not summon luck. It builds a place for luck to land," "If your destiny is written, your effort may be part of the ink," "Prayer is what effort sounds like when it reaches the edge of its power," "Hope that sets a date with the universe will one day be stood up," and "In love, the target is also an archer." The rest come from the earlier plan, sometimes reworded. All of them are collected in "The lines worth keeping" near the end of the book.
+- Exhaustion is a cost, not a contribution. (Chapter 2)
+- The old man did not say it was good. He said it was not finished. (Chapter 6)
+- Give your hope more than one road to travel. (Chapter 12)
+- After the arrow leaves, the archer remains. (Chapter 17, and the suggested back-cover line)
 
-None of these lines is attributed to a famous person. Every quotation from a real person is attributed and listed in the Notes.
+The other eleven: "No farmer has ever believed that plowing guarantees rain. Every farmer plows." "Your starting point was luck. Your direction is not only luck." "Work does not summon luck. It builds a place for luck to land." "Before you copy a winner, count the people who did the same thing and lost." "Judge the decision by what you knew, not by what the dice did." "A caused action can still be a cause." "There is no funeral for a future that never arrived. Hold one anyway." "Hope that sets a date with the universe will one day be stood up." "A future together takes two yeses." "Quit the road if you must. Keep the reason." "Give the goal your best. Do not give it your worth."
+
+None of them is attributed to a famous person. A few began in the earlier plan you received and have been reworked.
 
 ## Please personalize
 
 1. About the author. It currently says only what you told me: that you have thought about these four ideas for years, that you noticed your luck improving when you worked hard, and that you watched hardworking, hopeful people lose what they wanted. Add your own details: where you live, what you do, why this book matters to you.
-2. The introduction. It is written in your voice and uses only the experiences you described. If you have a specific personal story (a job, an exam, a loss, a moment when hard work and luck lined up), adding one or two paragraphs of it to the introduction would make the book even more personal. Do not borrow anyone else's private story without their permission.
-3. The dedication. "For everyone who did everything right and still did not get what they wanted" fits the book, but a dedication is personal. Change it if you want to.
+2. The introduction. It is written in your voice and uses only the experience you described. If you have a specific personal story (a job, an exam, a moment when hard work and luck lined up, or a loss), adding one or two paragraphs of it would make the opening even stronger. Do not borrow anyone else's private story without their permission.
+3. The dedication and epigraph. Both are original to this book, and both are yours to change.
 
 ## Facts checked for this draft
 
-These facts were checked against published sources while writing: the details of Wiseman's newspaper experiment, Pasteur's 1854 lecture, the history of "the harder I work, the luckier I get," the Macnamara deliberate-practice figures, the MusicLab study, the Bertrand and Mullainathan résumé study, the hockey birthdate research, Langer's lottery study, Fischhoff's hindsight studies, Oettingen's fantasy research and the 2021 meta-analysis, Knee's destiny and growth beliefs study, Gilbert and Wilson's immune-neglect studies, Gilovich and Medvec on regret, the exact wording of the Stockdale passages and of Havel's line on hope, William James's diary entry, the Umar hadith (Bukhari 5729), the camel hadith (Tirmidhi 2517) and its grading, and the Churchill Harrow speech.
+New in this draft and checked against published sources: Granovetter's weak-ties research and the 2022 LinkedIn experiment, Merton's cumulative advantage, the Bell and Chetty inventor study, the sugarcane-farmer scarcity study, Markus and Nurius on possible selves, King and Hicks on lost possible selves, Doka on disenfranchised grief, Pennebaker's expressive writing research, and Bruininks and Malle on hope versus optimism.
 
-Two things to keep in mind:
-
-1. The grading of the two Tirmidhi sayings (the camel, and supplication turning back the decree) differs between hadith scholars. The book attributes them carefully ("Muslims preserved the memory," "traced by many Muslims to the Prophet"), and the Notes mention the differing grades.
-2. Quotes from Frankl, Collins/Stockdale, Havel and Jobs are short and attributed. See the publishing kit for the one longer passage (Stockdale) you may want to shorten or seek permission for.
+Carried over from the first draft: Wiseman's newspaper experiment, Pasteur's 1854 lecture, the history of the "harder I work, the luckier I get" saying, the Macnamara practice figures, the MusicLab study, the résumé study, the hockey birthdate research, Langer's lottery study, Fischhoff's hindsight studies, Oettingen's fantasy research and the 2021 review, Knee's destiny and growth beliefs, Gilbert and Wilson's immune neglect studies, Gilovich and Medvec on regret, the Stockdale account, William James's diary entry and the Churchill Harrow speech.
 
 ## Rebuilding after edits
 

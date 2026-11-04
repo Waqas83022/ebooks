@@ -1,115 +1,93 @@
-# Chapter 11: Trust, and tie the camel
+# Chapter 11: When the future you imagined disappears
 
-Aesop, the storyteller of ancient Greece, left us a fable about a man driving a heavy wagon along a country road after the rains.
+Some losses take something you have. The ones that keep you awake take something you were about to have.
 
-The road was deep with mud, and before long the wheels sank in up to the axles. The horses strained and could not move it. So the driver climbed down, knelt in the road and began to pray. He called on Hercules, the strongest of all the heroes, to come and lift his wagon out.
+A young woman fails her medical licensing exam for the third and final time. On paper she has lost an exam. In her own mind she has lost a doctor. For six years she has been that doctor in private, in the shower and on the bus: the white coat, the first patient, the way her grandmother would say the title out loud at family dinners. The exam board has no idea it has just cancelled a person.
 
-Hercules appeared. But he did not lift the wagon. *Get up,* he said. *Put your shoulder to the wheel and drive your horses on. The gods help those who help themselves.*
+A man's visa is refused after three years of waiting. He had already chosen the neighborhood. He knew which bus he would take to work, what the winter would feel like, how he would describe the first snow on the phone to his mother. A one-page letter has removed a city he had been living in for years without ever arriving.
 
-More than a thousand years later, far to the south-east in Arabia, Muslims preserved the memory of a man who came to the Prophet Muhammad with a practical question about his camel. Should he tie it up and trust in God, he asked, or leave it loose and trust in God? The answer he received has become a proverb in many languages: *Tie it, and trust.*
+A footballer tears a knee ligament at nineteen. A couple are told the last round of fertility treatment has not worked. A founder signs the papers that close the company she spent seven years building. A family sells the farm that four generations worked. Someone is told, gently, that the wedding will not happen.
 
-In Spain they say *a Dios rogando y con el mazo dando*: praying to God and swinging the mallet. The story behind it is about a carter whose wagon broke down. He begged a saint to fix it, and the saint told him, in effect, *I will pray; you take up the hammer.* In the monasteries of medieval Europe, the Benedictine monks summed up their whole way of life in three Latin words: *ora et labora*, pray and work.
+In each case there is a visible event: a result, a letter, a diagnosis, a conversation. And in each case, something much larger and almost invisible disappears with it. A future the person had already begun to live in.
 
-What strikes me about all these sayings is where they come from. They were not invented by skeptics mocking the faithful. They were invented by deeply religious people, in deeply religious cultures, as advice to each other. Every people that learned to pray also invented a proverb telling you to keep working.
-
-> *Every people that learned to pray also invented a proverb about working.*
+This chapter is about that second loss. It comes first in the part of the book about hope, because you cannot build a new hope on top of a grief you have not acknowledged. Before you look for another road, you have to stand for a while at the place where the old one ended.
 
 * * *
 
-This chapter is about prayer, and I want to begin by being honest about what I can and cannot say.
+Why does losing something that never existed hurt so much?
 
-I cannot tell you what happens on the other side of a prayer. Whether God hears, how God answers, whether prayer changes events in the world or only the person who prays: these are questions of faith. People of different religions answer them differently, and people of no religion answer them in yet another way. No book about luck and effort can settle them, and this one will not try.
+Because in a sense it did exist. Not in the world, but in us.
 
-What I can talk about is what prayer evidently does on *this* side, in the life of the person who prays. Anyone can observe this, believer or not. And I think it turns out to be one of the most important parts of the answer to the question that started this book.
+In 1986, the psychologists Hazel Markus and Paula Nurius published a paper on what they called *possible selves*. We all carry pictures of who we might become: the selves we hope for, and the selves we fear. The successful lawyer. The good father. The person who finally lives abroad. The person who ends up alone. These pictures are not idle daydreams. They steer us. They decide which classes we take, which risks we run, which mornings we get up early. A hoped-for self is a kind of compass, and we spend years walking by it.
 
-But first we have to clear away a misunderstanding, because it causes enormous pain.
+So when a hoped-for future closes, we lose more than an outcome. We lose the compass we had been walking by. That is why people so often say, after a loss like this, *I don't know who I am anymore.* They are not being dramatic. They are describing exactly what happened.
 
-* * *
+It helps to see the separate layers of what goes missing, because each one needs its own kind of grief.
 
-There is a way of praying that is really the old contract from Chapter 1, wearing religious clothes.
+There is *identity*: the person you were becoming. The doctor, the athlete, the founder, the wife, the one who made it.
 
-It goes like this. *If I pray sincerely enough, often enough, with enough tears, God will give me what I ask.* Sometimes it becomes even more explicit: *If I fast, if I give to charity, if I make this vow, then You will give me the job, the marriage, the child, the cure.*
+There is *daily life*: the ordinary days you had pictured. The commute, the office, the house, the kitchen in the new city, the routine with the child.
 
-There is nothing wrong with asking. Almost every tradition encourages people to bring their deepest wishes to God, plainly and without embarrassment. The problem is the *if-then*. It turns prayer into a transaction, and God into a kind of machine that dispenses outcomes in exchange for devotion.
+There are *relationships*: the people who would have filled that life. Colleagues, teammates, a partner, a community, sometimes one particular person.
 
-When this kind of prayer is followed by a *no*, the damage is double. The person loses the thing they wanted. And they conclude that they must have prayed wrongly, or not sincerely enough, or that God has rejected them, or that God does not exist. The just-world belief from Chapter 1 has turned around again and pointed at the soul.
+There is *the story you told others*: the announcement you had half-written, the relatives who kept asking, the friends who already called you by the new title.
 
-The great religious traditions, for the most part, have warned against exactly this. They speak of trust, surrender, patience, a wisdom larger than ours. They do not promise that every request will be granted in the form it was asked. The vending-machine version of prayer is not their teaching. It is our anxiety, borrowing their language.
+And there is *meaning*: the sense that your effort was leading somewhere, that the sacrifices added up to something.
 
-* * *
-
-Think about what happens, though, when two people pray for the same thing.
-
-On the morning of the final interview, Sana's mother prayed for her daughter to get the job. On the same morning, in another part of the city, Daniel's grandmother prayed for her grandson to get the same job. Both prayers were sincere. Both came from love. Both were offered by good people.
-
-There was one job.
-
-Whatever you believe about how prayer works, this simple fact should free us from the idea that an unanswered prayer is a verdict on the person who prayed. In a world where many people want the same scarce things, the same position, the same scholarship, the same person's heart, not every sincere prayer for a particular outcome *can* be granted in that form. Sana's mother's prayer was not weaker than Daniel's grandmother's. It was not less loved. It met a world in which only one arrow could hit that particular target.
-
-> *An unanswered prayer is not a verdict on the one who prayed.*
-
-Believers have many ways of understanding a *no*. Some say it means *not yet*. Some say it means *something better*. Some say every sincere prayer is answered, though not always in the way we expect or can see. Some simply say that God's wisdom is beyond ours, and they rest in that. I will not choose among these for you. Each of them, held honestly, can bring peace. The only understanding I would warn against is the one that says: *you did not get it because you were not good enough to deserve it.* That is not faith. That is the contract.
+When you lose an imagined future, you can lose all five at once. It is no wonder it feels like more than one loss. It is more than one loss.
 
 * * *
 
-So what does prayer do, on this side?
+There is a further cruelty, and it is the silence.
 
-I have watched people pray all my life. When I listen past the differences in language and belief, I hear a handful of things again and again.
+When someone dies, the world knows what to do. There are rituals, prayers, flowers, food brought to the door, time off work, people who sit with you. The grief is recognized.
 
-*Prayer names what you want.* This sounds trivial, but it is not. Many of us go through life with a fog of half-formed wishes. When you pray, you have to say what you are asking for, and in saying it, you often discover what you actually want, which is sometimes different from what you thought. A person who prays, night after night, for "the job" may find one night that the words have changed into a prayer for security, or respect, or the chance to use their gifts. That discovery matters. It opens other roads to the same place.
+When a future dies, there is usually nothing. No funeral. No days off. No one brings food because you failed the exam for the last time or because the visa was refused. If you mention it, people often hurry to fix it. *You're young, there will be other chances. At least you have your health. It wasn't meant to be. Everything happens for a reason.* They mean well. But each of these sentences tells you, gently, that your grief is too big for what happened, and that you should put it away.
 
-*Prayer marks the edge of your power.* Nobody prays to be able to lift their own hand. We pray about the things we cannot fully control: the decision of the interviewer, the result of the scan, the heart of another person, the safety of a child far away. In this sense, prayer is a kind of honesty. It draws the line, in the open, between the bow and the wind. It says: *I have done what I can. The rest is not in my hands.*
+The grief researcher Kenneth Doka gave this a name in 1989: *disenfranchised grief*. It is grief that is not openly acknowledged, not publicly mourned and not socially supported. The family therapist Pauline Boss described a related experience she called *ambiguous loss*: a loss without clear edges or closure, where the world does not quite agree that anything has been lost at all.
 
-There is a prayer, written by the American theologian Reinhold Niebuhr in the twentieth century, that millions of people now say every day, many of them in recovery from addiction. It is usually given in a short form:
-
-*God, grant me the serenity to accept the things I cannot change, courage to change the things I can, and wisdom to know the difference.*
-
-If you read that prayer slowly, you will see that it contains this entire book in a single breath. The bow, the wind and the wisdom to tell them apart.
-
-*Prayer steadies the archer.* Ask people what they feel after praying, and many will tell you, before anything else, that they feel calmer. Fear narrows the mind, as we saw with Wiseman's unlucky volunteers counting photographs. A person who has handed over what cannot be controlled can sometimes see more clearly what can. The archer who breathes out before release does not change the wind. But she stops shaking.
-
-*Prayer sends you back to work.* This is what Hercules told the waggoner, and what the Prophet told the man with the camel, and what the Spanish saint told the carter. The prayer is not the end of the action. It is the moment before the action. You kneel; then you stand up and put your shoulder to the wheel. In every tradition I know of, the people most respected for their prayer were also respected for their work.
-
-*Prayer connects you.* People pray for each other and with each other. A mother prays for her daughter. A community prays for the sick. A stranger lights a candle. Even when the outcome does not change, the person on the receiving end of that prayer is no longer alone with their fear. Loneliness is one of the heaviest parts of disappointment, and prayer, at its best, lifts some of it.
-
-> *Prayer is what effort sounds like when it reaches the edge of its power.*
+There is no funeral for a future that never arrived. And because there is no funeral, many people never let themselves mourn it. They carry it unopened for years.
 
 * * *
 
-There is one more thing I must say, because it answers the specific question that troubled me for years.
+So the first thing I want to say to you, if you are standing where an imagined future used to be, is simply this: what you are feeling is grief, and it deserves to be treated as grief.
 
-If destiny is written, why pray?
+You are allowed to be sad for longer than other people think is reasonable. You are allowed to feel angry, at the examiners, at the employer, at your body, at the person who left, at yourself, at God, at nobody in particular. You are allowed to feel confused, because your compass has gone and you are not yet sure which way is forward. None of this means you are weak or ungrateful or faithless. It means you loved a future, and it is gone.
 
-You already know the answer from Chapter 8, because it is the same answer that Chrysippus gave in Athens and that Umar gave in the desert. If there is a written story, prayer is not outside it. For a believer, the prayer may be one of the sentences on the page, co-written with the outcome, just as calling the doctor is co-written with the recovery. Some traditions go further still. In the Islamic tradition, for example, there is a well-known saying, traced by many Muslims to the Prophet, that *nothing turns back the decree except supplication*. However one understands that, it clearly does not treat prayer as pointless in the face of destiny. It treats prayer as part of how destiny moves.
+You also do not have to rush to find the meaning in it. In Chapter 9 we saw that redemption stories can help, but only when they grow naturally. A loss forced into a lesson too early becomes a second burden. You do not have to call this a gift. You may never call it a gift. You can still build a good life after it.
 
-And if you do not believe in a written story, then prayer, or its secular cousins, reflection, intention, hope spoken out loud, still does everything I described above on this side. It names, it marks the edge, it steadies, it sends you back to work, it connects. You do not need to settle the metaphysics to receive these gifts.
-
-* * *
-
-I want to speak for a moment to readers who do not pray, or who used to and have stopped.
-
-Perhaps you stopped because a prayer went unanswered when it mattered most. If so, I am sorry. That is one of the deepest kinds of loss, because it is the loss of a future and of a source of comfort at the same time. I am not going to tell you to start praying again. That is between you and your own conscience.
-
-But I would gently suggest that the needs prayer meets do not disappear when the prayer stops. You still need a way to name what you want, to mark the edge of your power, to steady yourself before you act and to feel less alone in the waiting. Some people find this in meditation, some in journaling, some in long walks, some in honest conversation with a friend, some in music. Whatever form it takes, find something to put in that place. An archer who never breathes before she releases does not shoot better. She just shoots afraid.
+And it helps to know that accepting what happened is not the same as agreeing that it was fair. Acceptance only means you stop arguing with the fact that it happened. It does not mean you approve of it, or that you think you deserved it, or that you have stopped wishing it had gone differently. You can accept a closed door and still believe it should have opened.
 
 * * *
 
-Let me end with the camel, because I love that story more each time I think about it.
+There is some encouraging research on what happens to people who face their lost futures honestly.
 
-Notice what the man was really asking. He wanted to know whether trust and effort were rivals, whether choosing one meant giving up the other. And notice the answer. It did not say *tie the camel instead of trusting*. It did not say *trust instead of tying the camel*. It said both, in order: tie it, and trust. Do everything that is yours to do. Then place the rest, with an open hand, where it belongs.
+In 2007, the psychologists Laura King and Joshua Hicks reviewed a series of studies on what they called *lost possible selves*: the people we once hoped to become and now never will. They found something that at first seems contradictory. Spending time thinking about a lost possible self was linked to more regret and lower happiness in the moment. It hurts to look. But people who were able to describe their lost selves fully and honestly, in rich detail rather than brushing them aside, tended over time to show more personal maturity: a more complex, more compassionate, more grounded way of understanding themselves and the world.
 
-That is what the archer does in the moment before release. She has trained, she has aimed, she has done everything her hands can do. Then she breathes, and whether she sends that breath upward to God or simply out into the air, she lets the arrow go.
+In other words, looking straight at what you lost costs you some comfort now and gives you something deeper later. The people who grow are not the ones who never grieve. They are the ones who grieve with their eyes open.
 
-Prayer does not draw the bow for her. It never did. But no archer I have ever heard of has refused to breathe.
+There is also a simple practice with a long history behind it. In the 1980s, the psychologist James Pennebaker began asking people to spend fifteen or twenty minutes a day, for a few days, writing about their deepest thoughts and feelings about a painful experience. Across many studies since, people who did this kind of writing have often reported benefits, including, in his early work, fewer visits to the doctor in the months that followed. The effects vary and are usually modest. But the method is free, private and available tonight, and the exercise at the end of this chapter is built on it.
+
+* * *
+
+When Sara finally sat down, about a month after her rejection, and let herself look at what she had lost, she was surprised by how much was there.
+
+She had lost a job, of course. But she had also lost a version of herself: the young woman with the lanyard from the famous company, the one her relatives would mention to other relatives. She had lost a daily life: the bus to the glass building, lunch with clever colleagues, a desk with a view. She had lost the phone call to her father that she had rehearsed in her head a hundred times. She had lost the story she was going to tell at her cousin's wedding. And she had lost, for a while, the feeling that her two years of effort had been leading somewhere.
+
+Writing it all down did not make it hurt less that evening. It made it hurt more. But the next morning, something had shifted. The loss was no longer a fog. It had edges. She could see what she was actually grieving, and she could see that some of it, like the respect, the learning, the help she wanted to give her family, did not live only in that one building. That discovery belongs to the next chapter. It could not have come before this one.
+
+* * *
+
+The last thing I want to say here is about support, because people who lose imagined futures tend to grieve alone.
+
+When you tell someone what happened, try telling them the full size of the loss, not just the event. Not *I failed the exam*, but *I've been a doctor in my head for six years, and today she died.* Not *the visa was refused*, but *I've been living in that city for three years and I just found out I'll never arrive.* Most people respond very differently when they understand what was really lost. You give them the chance to sit with you instead of trying to fix you.
+
+And if the grief does not ease with time, if weeks become months and you cannot eat or sleep or get out of bed, please speak to a doctor or a counselor. Some losses are heavier than one person should carry alone. Asking for help with them is not a failure of hope. It is an act of it.
+
+The archer who has just watched her arrow fall far from the target does not need, in that moment, a lecture on technique. She needs to stand still for a while, feel what she feels, and let someone stand beside her. The next arrow can wait until her hands stop shaking.
 
 ## For your quiver {.unnumbered .quiver}
 
-*Every people that learned to pray also invented a proverb about working.*
+*There is no funeral for a future that never arrived. Hold one anyway.*
 
-*An unanswered prayer is not a verdict on the one who prayed.*
-
-*Prayer is what effort sounds like when it reaches the edge of its power.*
-
-*Tie the camel. Then trust.*
-
-**Practice.** If you pray, the next time you pray about something you want, divide your prayer into two halves. In the first half, ask honestly for what you want. In the second, name one specific thing that is yours to do about it, and ask for the strength to do it. Then, as soon as you can, do that thing. If you do not pray, try the same exercise in writing: one paragraph of honest hope, one sentence of honest action.
+**Practice.** Set aside twenty minutes and write four short sections about a future you have lost. What happened: the plain facts. What was lost: go through identity, daily life, relationships, the story you told others and meaning, and write what disappeared in each. What is unknown: the questions that remain unanswered, without forcing answers. What support would help now: one person you could tell the full size of this loss, and what you would like from them.
