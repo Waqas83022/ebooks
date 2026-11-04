@@ -38,3 +38,7 @@ Requirements: pandoc 3, Python 3 with `python-docx` and `Pillow`, and Node.js wi
 ```
 
 The cover is designed in `build/cover.html` and uses Cormorant Garamond (SIL Open Font License) and Inter.
+
+## Other books in this repository
+
+`ai-for-barbershop-owners/` holds *AI for Barbershop Owners: Fill Empty Chairs, Cut No-Shows, and Win Back Your Time with ChatGPT and Simple AI Tools*, a practical handbook of about 47,000 words with 15 diagrams, 100 prompts, worksheets and a KDP listing kit. See its own README for details.
