@@ -54,7 +54,7 @@ Believers have many ways of understanding a *no*. Some say it means *not yet*. S
 
 So what does prayer do, on this side?
 
-I have watched people pray all my life, and I have spoken with many about what it means to them. When I listen past the differences in language and belief, I hear a handful of things again and again.
+I have watched people pray all my life. When I listen past the differences in language and belief, I hear a handful of things again and again.
 
 *Prayer names what you want.* This sounds trivial, but it is not. Many of us go through life with a fog of half-formed wishes. When you pray, you have to say what you are asking for, and in saying it, you often discover what you actually want, which is sometimes different from what you thought. A person who prays, night after night, for "the job" may find one night that the words have changed into a prayer for security, or respect, or the chance to use their gifts. That discovery matters. It opens other roads to the same place.
 
