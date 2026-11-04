@@ -2,4 +2,4 @@
 
 *On hard work: what it can do, what it cannot, and the promise we thought it made*
 
-> *No farmer has ever believed that plowing guarantees rain. Every farmer plows.*
+The bow is the only part of the story you hold in your own hands.

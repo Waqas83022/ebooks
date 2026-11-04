@@ -1,5 +1,5 @@
 # Part Four: The breath {.unnumbered .part}
 
-*On prayer and hope: what they do, what they cannot do, and the kind of hope that keeps people alive*
+*On hope: when the future you imagined disappears, how to find another road, and how to live through the wait*
 
-> *Prayer is what effort sounds like when it reaches the edge of its power.*
+Hope is the breath you take before an action whose ending you cannot see.

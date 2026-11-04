@@ -1,5 +1,5 @@
 # Part Three: The written page {.unnumbered .part}
 
-*On destiny: if the story is already written, why should we write, work or pray?*
+*On destiny: three different questions hiding inside one word*
 
-> *If your destiny is written, your effort may be part of the ink.*
+Whatever is written, the bow does not draw itself.
