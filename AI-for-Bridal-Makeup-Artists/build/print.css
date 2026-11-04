@@ -1,0 +1,52 @@
+/* Print stylesheet for the 6 x 9 inch proof PDF (rendered by Chromium). */
+@font-face { font-family: "Cormorant"; font-weight: 600; src: url("fonts/CormorantGaramond-600.woff2") format("woff2"); }
+@font-face { font-family: "Cormorant"; font-weight: 500; font-style: italic; src: url("fonts/CormorantGaramond-500-italic.woff2") format("woff2"); }
+
+html { font-size: 10.2pt; }
+body { font-family: "Charter", "Bitstream Charter", "Caladea", Georgia, serif; line-height: 1.42; color: #111; margin: 0; max-width: none; padding: 0; hyphens: auto; }
+p { margin: 0 0 0.6em 0; orphans: 2; widows: 2; }
+
+h1 { font-family: "Cormorant", Georgia, serif; font-weight: 600; font-size: 1.95rem; line-height: 1.12; margin: 0.9in 0 0.35in 0; break-before: page; color: #2b2230; }
+h2 { font-family: Inter, sans-serif; font-weight: 700; font-size: 1.02rem; margin: 1.5em 0 0.5em 0; break-after: avoid; color: #2b2230; }
+h3 { font-family: Inter, sans-serif; font-weight: 600; font-size: 0.92rem; margin: 1.2em 0 0.4em 0; break-after: avoid; color: #5d5360; }
+ul, ol { margin: 0 0 0.8em 0; padding-left: 1.3em; }
+li { margin-bottom: 0.25em; }
+code { font-family: inherit; font-weight: bold; }
+
+blockquote { margin: 0.9em 0 1em 0; padding: 0.55em 0.8em; border-left: 3pt solid #b06f68; background: #f8f1ef; break-inside: avoid; }
+blockquote p { margin: 0 0 0.45em 0; }
+
+div.prompt, div.template, div.checklist { margin: 1em 0 1.1em 0; padding: 0.6em 0.8em 0.15em 0.8em; border: 1pt solid #2b2230; border-radius: 4pt; break-inside: avoid; font-size: 0.93rem; }
+div.prompt { background: #f1ecef; }
+div.template { border-style: dashed; }
+div.checklist { border-color: #9a7440; background: #faf5ec; }
+
+figure { margin: 1em 0 1.2em 0; text-align: center; break-inside: avoid; }
+figure img { max-width: 100%; max-height: 5.6in; }
+figcaption { font-size: 0.82rem; font-style: italic; color: #444; margin-top: 0.3em; }
+
+table { border-collapse: collapse; width: 100%; margin: 0.6em 0 1em 0; font-size: 0.85rem; break-inside: avoid; }
+th, td { border: 0.5pt solid #999; padding: 0.25em 0.4em; text-align: left; vertical-align: top; }
+th { background: #ece8e6; }
+
+section.part h1 { margin-top: 2.4in; font-size: 2.4rem; text-align: center; }
+section.part > p { text-align: center; margin: 0 0.3in 1.2em 0.3in; font-style: italic; }
+
+#title-block-header { text-align: center; padding-top: 2in; break-after: page; }
+#title-block-header .title { font-family: "Cormorant", Georgia, serif; font-weight: 600; font-size: 2.7rem; margin: 0 0 0.25in 0; break-before: avoid; text-align: center; }
+#title-block-header .subtitle { font-style: italic; text-align: center; font-size: 1.1rem; margin: 0 0.3in 0.6in 0.3in; }
+#title-block-header .author { text-align: center; font-variant: small-caps; letter-spacing: 0.1em; }
+#title-block-header .date { display: none; }
+
+nav#TOC { break-before: page; break-after: page; }
+nav#TOC h2 { font-family: "Cormorant", Georgia, serif; font-weight: 600; font-size: 1.9rem; margin: 0.9in 0 0.3in 0; }
+nav#TOC ul { list-style: none; padding: 0; margin: 0; }
+nav#TOC li { margin: 0.3em 0; }
+nav#TOC a { color: #111; text-decoration: none; }
+
+section.copyright > h1, section.dedication > h1 { display: none; }
+section.copyright, section.dedication { break-before: page; }
+section.copyright { padding-top: 2.2in; }
+section.copyright p { font-size: 0.8rem; margin-bottom: 0.7em; }
+section.dedication { padding-top: 2.4in; text-align: center; }
+section.dedication p { text-align: center; }

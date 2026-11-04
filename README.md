@@ -38,3 +38,7 @@ Requirements: pandoc 3, Python 3 with `python-docx` and `Pillow`, and Node.js wi
 ```
 
 The cover is designed in `build/cover.html` and uses Cormorant Garamond (SIL Open Font License) and Inter.
+
+## Other books in this repository
+
+`AI-for-Bridal-Makeup-Artists/` has *AI for Bridal Makeup Artists: A Practical Booking System for Faster Replies, Accurate Quotes and Calm Wedding Mornings*, with its own manuscript, diagrams, build script, finished Kindle files and KDP listing kit. See its README.
