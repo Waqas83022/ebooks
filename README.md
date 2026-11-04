@@ -1,3 +1,12 @@
+# Ebooks by Muhammad Waqas
+
+This repository holds two Kindle books, each with its manuscript, build pipeline, finished files and KDP publishing kit.
+
+| Book | Folder |
+|---|---|
+| *The Archer and the Wind: How to Keep Going When Hard Work Isn't Enough* | repository root (`manuscript/`, `build/`, `output/`, `publishing/`) |
+| *The After-Five Business: Build a Small AI-Assisted Service Business on Five Hours a Week Without Risking Your Day Job* | [`the-after-five-business/`](the-after-five-business/README.md) |
+
 # The Archer and the Wind
 
 *How to Keep Going When Hard Work Isn't Enough*, by Muhammad Waqas.

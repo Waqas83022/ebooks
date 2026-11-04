@@ -1,0 +1,39 @@
+/* 6 x 9 inch reading proof (rendered by Chromium via render.js). */
+@page { size: 6in 9in; }
+body { font-family: Georgia, "Times New Roman", serif; font-size: 10.5pt; line-height: 1.42; color: #111; margin: 0; }
+p { margin: 0 0 0.55em 0; orphans: 2; widows: 2; }
+h1 { font-size: 20pt; line-height: 1.2; margin: 0.6in 0 0.25in 0; break-before: page; }
+h2 { font-size: 12.5pt; margin: 1.3em 0 0.4em 0; break-after: avoid; }
+h3 { font-size: 10.5pt; font-style: italic; margin: 1em 0 0.3em 0; break-after: avoid; }
+ul, ol { margin: 0.3em 0 0.7em 0; padding-left: 1.3em; }
+li { margin-bottom: 0.25em; }
+blockquote { margin: 0.8em 1.2em; font-style: italic; }
+figure { margin: 1em 0; text-align: center; break-inside: avoid; }
+figure img { width: 100%; height: auto; }
+figcaption { font-size: 8.5pt; font-style: italic; margin-top: 0.3em; }
+table { border-collapse: collapse; width: 100%; margin: 0.8em 0; font-size: 9pt; break-inside: avoid; }
+th, td { border-bottom: 0.5pt solid #888; padding: 3pt 4pt; text-align: left; vertical-align: top; }
+th { border-bottom: 1.2pt solid #222; }
+pre, code { font-family: "Courier New", monospace; font-size: 8.5pt; }
+.box { border: 0.75pt solid #444; padding: 6pt 9pt; margin: 1em 0; }
+.box h3 { font-style: normal; margin-top: 0.1em; }
+.prompt { border-left: 3pt solid #555; padding: 2pt 0 2pt 8pt; margin: 1em 0; font-family: "Courier New", monospace; font-size: 8.5pt; }
+.session { border-top: 1.2pt solid #222; border-bottom: 1.2pt solid #222; padding: 4pt 0 6pt; margin: 1.6em 0 0.6em; break-inside: avoid; }
+.session h2 { font-size: 10pt; text-transform: uppercase; letter-spacing: 0.06em; margin-top: 0.3em; }
+section.part h1 { text-align: center; margin-top: 2.2in; font-size: 24pt; }
+section.part > p { text-align: center; font-style: italic; margin: 0 0.3in; }
+section.copyright h1, section.dedication h1 { display: none; }
+section.copyright { break-before: page; padding-top: 0.6in; }
+section.copyright p { font-size: 8.5pt; }
+section.dedication { break-before: page; padding-top: 2.5in; text-align: center; font-style: italic; }
+#title-block-header { text-align: center; padding-top: 2in; }
+#title-block-header .title { font-size: 28pt; break-before: avoid; margin: 0 0 0.2in; }
+#title-block-header .subtitle { font-style: italic; font-size: 13pt; }
+#title-block-header .author { margin-top: 1in; font-variant: small-caps; letter-spacing: 0.08em; font-size: 13pt; }
+#title-block-header .date { display: none; }
+nav#TOC { break-before: page; }
+nav#TOC ul { list-style: none; padding-left: 0; }
+nav#TOC li { margin-bottom: 0.3em; }
+nav#TOC a { color: #111; text-decoration: none; }
+a { color: #111; text-decoration: none; }
+section.notes p { font-size: 9pt; }
