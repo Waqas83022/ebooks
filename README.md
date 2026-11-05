@@ -42,3 +42,5 @@ The cover is designed in `build/cover.html` and uses Cormorant Garamond (SIL Ope
 ## Other books in this repository
 
 `ai-for-barbershop-owners/` holds *AI for Barbershop Owners: Fill Empty Chairs, Cut No-Shows, and Win Back Your Time with ChatGPT and Simple AI Tools*, a practical handbook of about 47,000 words with 15 diagrams, 100 prompts, worksheets and a KDP listing kit. See its own README for details.
+
+`focus-is-your-superpower/` holds *Focus Is Your Superpower: Beat Procrastination, Escape Digital Distractions, and Get More Done Without Burning Out*, a practical self-help book of about 47,000 words with a black-and-white interior, a 30-day focus challenge, 13 worksheets and a KDP listing kit. See its own README for details.

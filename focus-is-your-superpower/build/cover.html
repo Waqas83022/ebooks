@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Cover</title>
+<style>
+  html, body { margin:0; padding:0; background:#0a0a0a; }
+  .cover { position:relative; width:1600px; height:2560px; overflow:hidden; color:#f4f4f4;
+           font-family:"Inter", "Liberation Sans", sans-serif; background:#0a0a0a; }
+  svg.art { position:absolute; left:0; top:0; }
+  .kicker { position:absolute; top:140px; left:0; right:0; text-align:center; font-size:46px; font-weight:600;
+            letter-spacing:0.32em; text-transform:uppercase; color:#9a9a9a; }
+  .title { position:absolute; top:1420px; left:0; right:0; text-align:center; text-transform:uppercase; }
+  .focus { display:block; font-size:350px; line-height:0.9; font-weight:900; letter-spacing:0.04em; color:#ffffff; }
+  .isyour { display:block; font-size:78px; font-weight:600; letter-spacing:0.5em; color:#a6a6a6; margin:40px 0 26px 0.5em; }
+  .super { display:block; font-size:172px; line-height:1; font-weight:800; letter-spacing:0.02em; color:#ffffff; }
+  .rule { position:absolute; top:2120px; left:700px; width:200px; height:8px; background:#ffffff; }
+  .subtitle { position:absolute; top:2170px; left:150px; right:150px; text-align:center; font-size:56px; line-height:1.3;
+              font-weight:400; color:#d6d6d6; }
+  .author { position:absolute; top:2420px; left:0; right:0; text-align:center; font-size:62px; font-weight:700;
+            letter-spacing:0.3em; text-transform:uppercase; color:#ffffff; }
+</style>
+</head>
+<body>
+<div class="cover">
+  <svg class="art" id="art" width="1600" height="2560" viewBox="0 0 1600 2560" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+        <stop offset="0" stop-color="#ffffff" stop-opacity="0.55"/>
+        <stop offset="0.45" stop-color="#ffffff" stop-opacity="0.12"/>
+        <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <g id="noise"></g>
+    <circle cx="800" cy="830" r="330" fill="url(#glow)"/>
+    <circle cx="800" cy="830" r="250" fill="none" stroke="#ffffff" stroke-opacity="0.22" stroke-width="4"/>
+    <circle cx="800" cy="830" r="160" fill="none" stroke="#ffffff" stroke-opacity="0.45" stroke-width="5"/>
+    <circle cx="800" cy="830" r="78" fill="#ffffff"/>
+  </svg>
+
+  <div class="kicker">A practical 30-day system</div>
+  <div class="title">
+    <span class="focus">Focus</span>
+    <span class="isyour">is your</span>
+    <span class="super">Superpower</span>
+  </div>
+  <div class="rule"></div>
+  <div class="subtitle">Beat procrastination, escape digital distractions, and get more done without burning out</div>
+  <div class="author">Muhammad Waqas</div>
+</div>
+<script>
+  // Scattered marks (distractions) that thin out toward the single bright point (focus).
+  let seed = 20261105;
+  const rand = () => { seed = (seed * 1664525 + 1013904223) % 4294967296; return seed / 4294967296; };
+  const g = document.getElementById('noise');
+  const ns = 'http://www.w3.org/2000/svg';
+  const cx = 800, cy = 830;
+  let placed = 0, tries = 0;
+  while (placed < 420 && tries < 20000) {
+    tries++;
+    const x = 40 + rand() * 1520, y = 260 + rand() * 1120;
+    const d = Math.hypot(x - cx, y - cy);
+    if (d < 300) continue;
+    if (rand() > Math.min(1, (d - 300) / 420)) continue;
+    const shade = Math.round(70 + rand() * 110);
+    const op = (0.35 + rand() * 0.55).toFixed(2);
+    if (rand() < 0.55) {
+      const c = document.createElementNS(ns, 'circle');
+      c.setAttribute('cx', x.toFixed(1)); c.setAttribute('cy', y.toFixed(1));
+      c.setAttribute('r', (3 + rand() * 9).toFixed(1));
+      c.setAttribute('fill', `rgb(${shade},${shade},${shade})`); c.setAttribute('fill-opacity', op);
+      g.appendChild(c);
+    } else {
+      const a = rand() * Math.PI, len = 14 + rand() * 34;
+      const l = document.createElementNS(ns, 'line');
+      l.setAttribute('x1', (x - Math.cos(a) * len / 2).toFixed(1)); l.setAttribute('y1', (y - Math.sin(a) * len / 2).toFixed(1));
+      l.setAttribute('x2', (x + Math.cos(a) * len / 2).toFixed(1)); l.setAttribute('y2', (y + Math.sin(a) * len / 2).toFixed(1));
+      l.setAttribute('stroke', `rgb(${shade},${shade},${shade})`); l.setAttribute('stroke-opacity', op);
+      l.setAttribute('stroke-width', (3 + rand() * 4).toFixed(1)); l.setAttribute('stroke-linecap', 'round');
+      g.appendChild(l);
+    }
+    placed++;
+  }
+</script>
+</body>
+</html>
